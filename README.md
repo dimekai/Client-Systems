@@ -2,11 +2,14 @@
 CLI application that performs the creation, reading, update and deletion (CRUD) of clients using a .csv file as database, making use of the "Click" library for command generation.
 
 ### Installation
-1. Creating a new virtual enviroment to take more control of the system.
+1. Download the repository:
+> ```git clone https://github.com/dimekai/Client-Systems.git```
+
+2. Creating a new virtual enviroment to take more control of the system.
 
 > ```python3 -m venv venv```
 
-2. You have to install all dependencias using pip3, using the `requirements.txt` file
+3. You have to install all dependencias using pip3, using the `requirements.txt` file
 > ```pip3 install -r requirements.txt```
 
 ### App Commands
